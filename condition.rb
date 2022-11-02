@@ -4,15 +4,14 @@
 
 # while guess_number != my_number
 #  guess_number=gets.to_i
+
 #  if guess_number > my_number
 #    puts "your number is high .. try again"
-#    next
-
+   
 #  elsif guess_number < my_number
 #    puts "your number is low .. try again"
-#   next
+  
 #  end
-
 # end
 
 
@@ -23,13 +22,14 @@
 
 # until guess_number == my_number
 #   guess_number=gets.to_i
+
 #   if guess_number > my_number
 #     puts "your number is high .. try again"
-#     next
+    
 
 #   elsif guess_number < my_number
 #     puts "your number is low .. try again"
-#     next
+    
 #   end  
 # end
 
