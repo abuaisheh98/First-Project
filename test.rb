@@ -48,7 +48,7 @@ for i in 0..2
 			password_as_a_number=password_enterd.to_i
 			
 		else
-			puts "Sorry , try again after 1 houre"
+			puts "Sorry , try again after 1 hour"
 		end
 
 	end
